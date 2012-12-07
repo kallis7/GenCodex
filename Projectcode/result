@@ -1,11 +1,6 @@
 size of sequence20
-size of pattern2
-ACGT VALUE:27
-ACGT VALUE:27
-ACGT value4count 4
-AGTA value1
-GGTA value3
-CCAG value2
+size of pattern7
+	STAB_PRINT	
 Basepair: 17	position:8,	Count: 1
 Basepair: 27	position:4,5,9,	Count: 4
 Basepair: 36	position:12,	Count: 1
@@ -21,3 +16,10 @@ Basepair: 173	position:3,	Count: 1
 Basepair: 184	position:16,	Count: 1
 Basepair: 197	position:18,	Count: 1
 Basepair: 203	position:14,	Count: 1
+	PTAB_PRINT	
+Basepair: 1	position:6,	Count: 1
+Basepair: 10	position:5,	Count: 1
+Basepair: 17	position:2,	Count: 1
+Basepair: 45	position:3,	Count: 1
+Basepair: 55	position:4,	Count: 1
+Basepair: 177	position:1,	Count: 1

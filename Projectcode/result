@@ -1,0 +1,23 @@
+size of sequence20
+size of pattern2
+ACGT VALUE:27
+ACGT VALUE:27
+ACGT value4count 4
+AGTA value1
+GGTA value3
+CCAG value2
+Basepair: 17	position:8,	Count: 1
+Basepair: 27	position:4,5,9,	Count: 4
+Basepair: 36	position:12,	Count: 1
+Basepair: 40	position:10,	Count: 1
+Basepair: 44	position:1,6,15,	Count: 3
+Basepair: 45	position:19,	Count: 1
+Basepair: 82	position:2,	Count: 1
+Basepair: 110	position:17,	Count: 1
+Basepair: 136	position:11,	Count: 1
+Basepair: 146	position:13,	Count: 1
+Basepair: 170	position:7,	Count: 1
+Basepair: 173	position:3,	Count: 1
+Basepair: 184	position:16,	Count: 1
+Basepair: 197	position:18,	Count: 1
+Basepair: 203	position:14,	Count: 1
